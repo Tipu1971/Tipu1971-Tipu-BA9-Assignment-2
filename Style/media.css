@@ -1,0 +1,67 @@
+.header-section {
+    display: flex;
+    justify-content: space-between;
+    min-height: auto;
+    border: 2px solid white;
+    align-items: center;
+    padding: 50px;
+}
+
+.nav-container {
+    border: 2px solid #fff;
+    height: 50px;
+    display: flex;
+    gap: 20px;
+    font-size: 36px;
+    font-style: normal;
+    font-family: mulish;
+    align-items: center;width: 50%;
+}
+
+.special {
+    color: orange;
+}
+
+.items-container {
+    border: 2px solid #fff;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 36px;
+    font-style: normal;
+    font-family: mulish;
+    align-items: center;
+width: 50%;}
+
+.banner-section {
+    color: white;
+    font-size: 20px;
+    font-family: mulish;
+    text-align: center;
+    background-image: url(../Images/Group\ 13\ \(1\)\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 300px 400px;
+}
+
+.banner-from {
+    display: inline-flex;
+    padding: 20px;
+    gap: 25px;
+    align-items: flex-start;
+    border-radius: 8px
+}
+
+.Banner-heading {
+    font-size: 60px;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background-color: orangered;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-family: mulish;
+}
